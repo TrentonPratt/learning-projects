@@ -1,6 +1,6 @@
 -- Exercise 1
 
--- Use store database
+-- Use create-db-store.sql
 
 -- Return all the products in the database
 -- Results set should have the three following columns
