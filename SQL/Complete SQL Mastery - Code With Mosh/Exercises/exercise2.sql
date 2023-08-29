@@ -1,4 +1,4 @@
--- Exercise 1
+-- Exercise 2
 
 -- Use create-db-store.sql
 
