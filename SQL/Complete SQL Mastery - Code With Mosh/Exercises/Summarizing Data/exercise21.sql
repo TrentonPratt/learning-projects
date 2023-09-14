@@ -1,4 +1,4 @@
--- Exercise 20
+-- Exercise 21
 
 -- Use create-db-invoicing.sql
 
