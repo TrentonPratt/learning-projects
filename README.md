@@ -10,6 +10,7 @@ Repository for all projects and challenges I do to learn new tools and skills
 + Tools
 	+ MySQL
  	+ Jupyter Notebook
+  	+ Jasmine
 
 + Frameworks
 	+ Angular
