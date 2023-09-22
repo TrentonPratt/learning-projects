@@ -29,9 +29,30 @@ describe("CoursesService", () => {
                 expect(course.titles.description).toBe("Angular Testing Course");
 
             });
+
         const req = httpTestingController.expectOne('/api/courses');
         expect(req.request.method).toEqual("GET");
         req.flush({payload: Object.values(COURSES)});
+
     });
+
+    it('should find a course by id', () => {
+        coursesService.findCourseById(12)
+            .subscribe(courses => {
+
+                expect(courses).toBeTruthy('No courses returned');
+                expect(courses.id).toBe(12, "incorrect number of courses");
+
+            });
+
+        const req = httpTestingController.expectOne('/api/courses/12');
+        expect(req.request.method).toEqual("GET");
+        req.flush(COURSES[12]);
+
+    });
+
+    afterEach(() => {
+        httpTestingController.verify();
+    })
 
 });
