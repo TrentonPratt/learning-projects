@@ -31,6 +31,6 @@ This entry-level Python for Data Analysts training prepares learners to master w
 
 ## Angular
 
-### [Angular Testing Course](https://github.com/TrentonPratt/learning-projects/tree/main/Angular/Angular%20Testing%20Course)
+### [Angular Testing Course](https://github.com/TrentonPratt/learning-projects/tree/main/Angular/Angular%20Testing%20Course) 35% Complete
 This video course, complete with a running Github repository is a complete step-by-step guide to Angular Testing in general. We are going to take a small sample application that is already completed, but that has no tests yet.
 + Course: [Angular Testing Course](https://angular-university.io/course/angular-testing-course)
