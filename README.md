@@ -25,7 +25,7 @@ This course trains us to handle and analyze a Large Ecommerce Store for clients,
 
 ## Python
 
-### [Python for Data Analysis](https://github.com/TrentonPratt/learning-projects/tree/main/Python/python_for_data_analysis) 29% Complete
+### [Python for Data Analysis](https://github.com/TrentonPratt/learning-projects/tree/main/Python/python_for_data_analysis) 43% Complete
 This entry-level Python for Data Analysts training prepares learners to master what is easily the best programming language in the world for data analysis: Python and its data analysis libraries.
 + Course: [Python for Data Analysis](https://www.cbtnuggets.com/it-training/data-science/intro-python-data-analysis)
 
