@@ -24,7 +24,7 @@ Repository for all projects and challenges I do to learn new tools and skills
 This course trains us to handle and analyze a Large Ecommerce Store for clients, payments, invoices, products and shipping information.
 + Course: [Complete SQL Mastery](https://codewithmosh.com/p/complete-sql-mastery)
 
-## Python
+## Data Science
 
 ### [Python for Data Analysis](https://github.com/TrentonPratt/learning-projects/tree/main/Python/python_for_data_analysis) 43% Complete
 This entry-level Python for Data Analysts training prepares learners to master what is easily the best programming language in the world for data analysis: Python and its data analysis libraries.
