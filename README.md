@@ -6,6 +6,7 @@ Repository for all projects and challenges I do to learn new tools and skills
 + Languages
 	+ SQL
  	+ Python
+  	+ Typescript
 
 + Tools
 	+ MySQL
